@@ -1,1 +1,2 @@
 This is the Class work
+FROM openjdk:8
